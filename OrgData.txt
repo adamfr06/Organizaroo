@@ -1,0 +1,17 @@
+Science
+0
+GREEN
+Chemistry lab
+2
+5
+2006
+-
+History
+0
+YELLOW
+-
+Math
+0
+RED
+-
+END
